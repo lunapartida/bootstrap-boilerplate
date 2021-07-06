@@ -6,6 +6,7 @@ Project Description
 
 ## Instillation
 [Google] (https://www.google.com)
+[Styles] (./css/styles.css)
 
 ## Contributing
 
